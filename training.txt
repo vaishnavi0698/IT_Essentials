@@ -1,4 +1,15 @@
 My Training Update
-SQL
+
+SQL                
 LINUX
+GIT tutorial with python project
 Databases
+
+
+
+BigData
+
+HDFS
+HIVE
+Sqoop
+Spark
